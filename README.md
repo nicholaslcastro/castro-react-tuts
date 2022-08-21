@@ -1,3 +1,7 @@
+# Castro React Tutorials
+
+This project's goal is to simplify and explain React hooks to developers. This repository's goal is to be a supplement to my video tutorials for React and to allow developers an easy way to follow along.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
